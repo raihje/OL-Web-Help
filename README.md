@@ -1,4 +1,4 @@
-# OL-Web-Help
+# Open Legend Character Helper
 Character Helper and Searchable Banes/Boons with responsive design using bootstrap.
 
 ## Design Goal
